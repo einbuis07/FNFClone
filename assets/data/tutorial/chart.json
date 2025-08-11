@@ -1,0 +1,6 @@
+[
+  { "direction": 0, "time": 1.0 },
+  { "direction": 3, "time": 2.0 },
+  { "direction": 2, "time": 3.0 },
+  { "direction": 1, "time": 4.0 }
+]
